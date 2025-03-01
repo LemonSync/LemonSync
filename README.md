@@ -3,7 +3,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
 
-  <img src="https://tmpfiles.org/dl/21505958/etjrsfz9aw.jpeg" width="30">
+  <img src="https://raw.githubusercontent.com/LemonSync/LemonSync/main/Lemon.jpg" width="30">
   Selamat Datang!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
