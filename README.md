@@ -51,7 +51,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LemonSync&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonSync&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonSync&layout=compact&theme=radical" width="450"/>
 </p>
 
 ---
