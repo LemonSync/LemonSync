@@ -1,6 +1,6 @@
 <h3 align="center">
 
-![](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Welcome+to+My+Profile!&fontSize=40&fontColor=white)
+![](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Welcome+to+My+Profile!&fontSize=40&Color=white)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
