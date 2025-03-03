@@ -42,7 +42,11 @@
 
 ## 📊 GitHub Status
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LemonSync&show_icons=true&locale=en" alt="lemonsync" /></p>
+<div align="center">
+  <a href="https://github.com/LemonSync">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LemonSync&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonSync&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ## 🏆GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=LemonSync&theme=dracula&no-frame=false&no-bg=false&margin-w=5&row=1&column=4)](https://github-profile-trophy.vercel.app/?username=LemonSync&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row53&column=5) <!--<a href="https://app.daily.dev/CodeWhiteWeb"><img src="https://github.com/CodeWhiteWeb/CodeWhiteWeb/blob/main/devcard.svg" width="175" alt="CodeWhiteWebs's Dev Card"/></a><br>-->
