@@ -1,73 +1,92 @@
 <h3 align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+![](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Welcome+to+My+Profile!&fontSize=40&fontColor=white)
 
-
-  <img src="https://raw.githubusercontent.com/LemonSync/LemonSync/main/Lemon.jpg" width="30">
-  Selamat Datang!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+Selamat+Datang+di+Profil+Github+Saya;Saya+Adalah+LemonSync;Saya+Adalah+Web+Developer;Bot+Developer;dan+User+Js"></a>
+  <a href="https://github.com/LemonSync"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Hi!+I'm+LemonSync;A+Web+Developer;A+Bot+Developer;I+Love+JavaScript+❤️"></a>
 </p>
 
 ---
 <div align="left">
   
-# 💫About Me :
-🏷️ Nama : Eres Fran Setia Simbolon (Lemon)
-  
-🛐 Agama : Kristen Protestan ⛪
+## 💫 About Me  
+👤 **Nama:** Eres Fran Setia Simbolon (Lemon)  
+🌍 **Suku:** Batak Toba  
+⛪ **Agama:** Kristen Protestan  
+💖 **Pacar:** Nothing (Ngapain Pacaran)  
+📱 **No HP:** 085763482523  
+📧 **Email:** grouplemon0@gmail.com  
 
-👥 Suku : Batak Toba 
+---
 
-💕 Pacar : Nothing (Ngapain Pacaran)
-
-📱 No Hp : 085763482523 (All)
-
-📨 Email: grouplemon0@gmail.com (Umum)
-
-
-<h3>Connect with me:</h3>
-<p>
-<a href="https://twitter.com/SyncLemon" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewhiteweb1" height="30" width="40" /></a>
-<a href="https://instagram.com/lemon_sync" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewhiteweb" height="30" width="40" />
-<a href="https://www.youtube.com/@lemon_sync" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewhiteweb" height="30" width="40" /></a>
+## 🌐 Connect with Me  
+<p align="left">
+<a href="https://twitter.com/SyncLemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/lemon_sync" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@lemon_sync" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
 </p>
-<a href="https://saweria.co/Monle"><img src="https://img.shields.io/badge/TIP%20me-Bantu%20Saya-&?style=for-the-badge&logo=bitcoin"></a>
 
-
-# 💻 Saya Menguasai: 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-
-## 📊 GitHub Status
-
-<div align="center">
-  <a href="https://github.com/LemonSync">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LemonSync&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonSync&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-## 🏆GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=LemonSync&theme=dracula&no-frame=false&no-bg=false&margin-w=5&row=1&column=4)](https://github-profile-trophy.vercel.app/?username=LemonSync&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row53&column=5) <!--<a href="https://app.daily.dev/CodeWhiteWeb"><img src="https://github.com/CodeWhiteWeb/CodeWhiteWeb/blob/main/devcard.svg" width="175" alt="CodeWhiteWebs's Dev Card"/></a><br>-->
-<!--![trophy](https://metrics.lecoq.io/CodeWhiteWeb?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=Asia%2FCalcutta)-->
+<a href="https://saweria.co/Monle"><img src="https://img.shields.io/badge/TIP%20Me-Bantu%20Saya-blue?style=for-the-badge&logo=bitcoin"></a>
 
 ---
-  
-### ✍️Kata-kata Hari Ini
-![](https://github-readme-quotes-bay.vercel.app/quote?theme=blue-green&quotesUrl=https://raw.githubusercontent.com/LemonSync/LemonSync/main/quotes.json)
 
+## 💻 Tech Stack
+<p align="left">
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+</p>
 
-### 🎶Spotify List
-  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=312mwhcva3c5u6fv2hxabsgnmtfi)](https://open.spotify.com/user/312mwhcva3c5u6fv2hxabsgnmtfi)
-  
 ---
-![](https://forthebadge.com/images/badges/built-with-love.png)
-![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LemonSync&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LemonSync&theme=radical" width="450"/>
+</p>
+
 ---
-![Profile_Views](https://komarev.com/ghpvc/?username=LemonSync&style=for-the-badge&label=Visitors+Count&color=brightgreen)
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LemonSync&theme=dracula&no-frame=false&no-bg=false&margin-w=5&row=1&column=4"/>
+</p>
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+---
 
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+## 🎶 Spotify Recently Played
+<p align="center">
+  <a href="https://open.spotify.com/user/312mwhcva3c5u6fv2hxabsgnmtfi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312mwhcva3c5u6fv2hxabsgnmtfi&width=500&theme=default"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.png">
+  <img src="https://forthebadge.com/images/badges/built-by-developers.svg">
+</p>
+
+---
+
+![Visitors](https://komarev.com/ghpvc/?username=LemonSync&style=for-the-badge&label=Visitors+Count&color=brightgreen)
+
+![](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=footer)
 </div>
