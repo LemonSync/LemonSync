@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Status  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LemonSync&show_icons=true&theme=radical" width="450"/>
@@ -63,9 +63,9 @@
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Kata-kata Hari Ini
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=blue-green&quotesUrl=https://raw.githubusercontent.com/LemonSync/LemonSync/main/quotes.json"/>
 </p>
 
 ---
