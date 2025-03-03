@@ -58,7 +58,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LemonSync&theme=dracula&no-frame=false&no-bg=false&margin-w=5&row=1&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LemonSync&theme=algolia&no-frame=true&no-bg=false&margin-w=5&row=1&column=5"/>
 </p>
 
 ---
