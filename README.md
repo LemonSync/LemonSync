@@ -10,6 +10,13 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LemonSync&style=for-the-badge&label=Viewers+Account&color=brightgreen">
+</p>
+
+---
+
 <div align="left">
   
 ## 💫 About Me  
@@ -85,8 +92,6 @@
 </p>
 
 ---
-
-![Visitors](https://komarev.com/ghpvc/?username=LemonSync&style=for-the-badge&label=Visitors+Count&color=brightgreen)
 
 ![](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=footer)
 </div>
