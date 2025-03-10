@@ -16,16 +16,17 @@
 </p>
 
 ---
-
-<div align="left">
   
 ## 💫 About Me  
+<details>
+<div align="left">
 👤 **Nama:** Eres Fran Setia Simbolon (Lemon)  
 🌍 **Suku:** Batak Toba  
 ⛪ **Agama:** Kristen Protestan  
 💖 **Pacar:** Nothing (Ngapain Pacaran)  
 📱 **No HP:** 085763482523  
 📧 **Email:** grouplemon0@gmail.com  
+</details>
 
 ---
 
