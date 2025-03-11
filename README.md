@@ -65,6 +65,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LemonSync&show_icons=true&theme=radical" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonSync&layout=compact&theme=radical" width="450"/>
+  <br>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=LemonSync&theme=dark&border_radius=5&stroke=999999&border=999999&background=0d1117">
 </p>
 
 ---
