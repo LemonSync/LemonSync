@@ -2,6 +2,7 @@
 
 ![](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Welcome+to+My+Profile!&fontSize=40&Color=white)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -9,13 +10,11 @@
   <a href="https://github.com/LemonSync"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Hi!+I'm+LemonSync;A+Web+Developer;A+Bot+Developer;I+Love+JavaScript+❤️"></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LemonSync&style=for-the-badge&label=Viewers+Account&color=brightgreen">
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
   
 ## 💫 About Me  
 <details>
@@ -32,7 +31,7 @@
   </div>
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🌐 Connect with Me  
 <p align="left">
@@ -43,7 +42,7 @@
 
 <a href="https://saweria.co/Monle"><img src="https://img.shields.io/badge/TIP%20Me-Bantu%20Saya-blue?style=for-the-badge&logo=bitcoin"></a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 💻 Tech Stack
 <p align="left">
@@ -58,7 +57,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://githubraw.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 📊 GitHub Status  
 
@@ -70,21 +69,21 @@
   <img src="https://streak-stats.demolab.com?user=LemonSync&theme=dark&border_radius=5&stroke=999999&border=999999&background=0d1117">
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy-drab.vercel.app?username=LemonSync&theme=matrix_reloaded&no-bg=true&no-frame=true&title=-Experience"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## ✍️ Kata-kata Hari Ini
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=blue-green&quotesUrl=https://raw.githubusercontent.com/LemonSync/LemonSync/main/quotes.json"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🎶 Spotify Saya
 <p align="center">
@@ -93,7 +92,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.png">
