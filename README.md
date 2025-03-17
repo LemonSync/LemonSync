@@ -2,6 +2,7 @@
 
 ![](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Welcome+to+My+Profile!&fontSize=40&Color=white)
 
+<img src="https://github-widgetbox.vercel.app/api/profile?username=LemonSync&data=followers,repositories,stars,commits&theme=nautilus" alt="Lemon">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -62,8 +63,7 @@
 ---
 
 ## 📊 GitHub Status  
-
-<p align="center">
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LemonSync&show_icons=true&theme=radical" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonSync&layout=compact&theme=radical" width="450"/>
   <br>
