@@ -58,6 +58,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://www.firebase.com/" target="_blank"> <img src="https://githubraw.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> </a>
 <a href="https://nodejs.org/" target="_blank"> <img src="https://githubraw.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a>
+<a href="https://vercel.com/" target="_blank"> <img src="https://githubraw.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" width="40" height="40"/> </a>
 </p>
 
 ---
