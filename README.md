@@ -21,7 +21,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://github-profile-trophy-drab.vercel.app?username=LemonSync&theme=matrix_reloaded&no-bg=true&no-frame=true&title=-Experience"/>
+  <img src="https://github-profile-trophy-drab.vercel.app?username=LemonSync&theme=matrix_reloaded&no-bg=true&no-frame=true"/>
 </p>
 
 <p align="center">
@@ -31,13 +31,13 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=blue-green&quotesUrl=https://raw.githubusercontent.com/LemonSync/LemonSync/main/quotes.json"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=LemonSync&style=for-the-badge&label=Viewers+Account&color=brightgreen">
   <br>
   <img src="https://forthebadge.com/images/badges/built-with-love.png">
   <img src="https://forthebadge.com/images/badges/built-by-developers.svg">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=blue-green&quotesUrl=https://raw.githubusercontent.com/LemonSync/LemonSync/main/quotes.json"/>
 </p>
 </div>
