@@ -1,23 +1,9 @@
 <h3 align="center">
 
-![](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Welcome+to+My+Profile!&fontSize=40&Color=white)
-
 <img src="https://github-widgetbox.vercel.app/api/profile?username=LemonSync&data=followers,repositories,stars,commits&theme=nautilus" alt="Lemon">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=lemonsync&include_orgs=true&show_icons=true&theme=radical&locale=en">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonSync&layout=compact&theme=radical" width="450"/>
 </h3>
-
-<p align="center">
-  <a href="https://github.com/LemonSync"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Hi!+I'm+LemonSync;A+Web+Developer;A+Bot+Developer;I+Love+JavaScript+❤️"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LemonSync&style=for-the-badge&label=Viewers+Account&color=brightgreen">
-</p>
-
----
-  
-## 💫 About Me
 <div align="left" style="margin-left: 9000px;">
   
   ```csharp
@@ -31,18 +17,6 @@
 -------------------------
    ```
 </div>
-
----
-
-## 🌐 Connect with Me  
-<p align="center">
-<a href="https://twitter.com/SyncLemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/lemon_sync" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@lemon_sync" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
-<br>
-<br>
-<a href="https://saweria.co/Monle"><img src="https://img.shields.io/badge/TIP%20Me-Bantu%20Saya-blue?style=for-the-badge&logo=bitcoin"></a>
-</p>
 
 ---
 
@@ -65,8 +39,6 @@
 
 ## 📊 GitHub Status  
   <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=lemonsync&include_orgs=true&show_icons=true&theme=radical&locale=en"
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonSync&layout=compact&theme=radical" width="450"/>
   <br>
   <br>
   <img src="https://streak-stats.demolab.com?user=LemonSync&theme=dark&border_radius=5&stroke=999999&border=999999&background=0d1117">
@@ -95,6 +67,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LemonSync&style=for-the-badge&label=Viewers+Account&color=brightgreen">
+</p>
 ---
 
 <p align="center">
