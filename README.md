@@ -18,13 +18,13 @@
    ```
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <p align="center">
   <img src="https://github-profile-trophy-drab.vercel.app?username=LemonSync&theme=matrix_reloaded&no-bg=true&no-frame=true"/>
 </p>
 
-<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 <div align="center">
 <details>
