@@ -24,6 +24,10 @@
   <img src="https://github-profile-trophy-drab.vercel.app?username=LemonSync&theme=matrix_reloaded&no-bg=true&no-frame=true"/>
 </p>
 
+<br><br>
+
+<details>
+    <summary>My Detail Stats (click me to toggle 👀)</summary>
 <p align="center">
   <a href="https://open.spotify.com/user/312mwhcva3c5u6fv2hxabsgnmtfi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=312mwhcva3c5u6fv2hxabsgnmtfi&width=500&theme=default"/>
@@ -40,4 +44,5 @@
   <img src="https://forthebadge.com/images/badges/built-with-love.png">
   <img src="https://forthebadge.com/images/badges/built-by-developers.svg">
 </p>
+  </details>
 </div>
