@@ -26,9 +26,10 @@
 
 <br><br>
 
+<div align="center">
 <details>
-    <summary>My Detail Stats (click me to toggle 👀)</summary>
-<p align="center">
+    <summary>Klik Saya untuk melihat yang lainnya</summary>
+  <br>
   <a href="https://open.spotify.com/user/312mwhcva3c5u6fv2hxabsgnmtfi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=312mwhcva3c5u6fv2hxabsgnmtfi&width=500&theme=default"/>
   </a>
@@ -45,4 +46,5 @@
   <img src="https://forthebadge.com/images/badges/built-by-developers.svg">
 </p>
   </details>
+  </div>
 </div>
