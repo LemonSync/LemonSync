@@ -30,6 +30,15 @@
   <a href="https://lemon-ustad.vercel.app">
     <img src="https://img.shields.io/badge/Lemon%20Ustad-008000">
   </a>
+  <a href="https://lemon-write.vercel.app">
+    <img src="https://img.shields.io/badge/Lemon%20Write-800080">
+  </a>
+  <a href="https://lemon-email.vercel.app">
+    <img src="https://img.shields.io/badge/Lemon%20Email-FFD700">
+  </a>
+  <a href="https://lemon-welcome.vercel.app">
+    <img src="https://img.shields.io/badge/Lemon%20Welcome-2916F3">
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
