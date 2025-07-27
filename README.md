@@ -1,9 +1,6 @@
 <h3 align="center">
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=LemonSync&data=followers,repositories,stars,commits&theme=nautilus" alt="Lemon">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonSync&layout=compact&theme=radical" width="450"/>
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=lemonsync&include_orgs=true&show_icons=true&theme=radical&locale=en">
-</h3>
 <div align="left" style="margin-left: 9000px;">
   
   ```csharp
@@ -17,6 +14,9 @@
 -------------------------
    ```
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonSync&layout=compact&theme=radical" width="450"/>
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=lemonsync&include_orgs=true&show_icons=true&theme=radical&locale=en">
+</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy-drab.vercel.app?username=LemonSync&theme=matrix_reloaded&no-bg=true&no-frame=true"/>
