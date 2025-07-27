@@ -14,8 +14,8 @@
 -------------------------
    ```
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonSync&layout=compact&theme=radical" width="450"/>
 <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=lemonsync&include_orgs=true&show_icons=true&theme=radical&locale=en">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonSync&layout=compact&theme=radical" width="450"/>
 </h3>
 
 <p align="center">
