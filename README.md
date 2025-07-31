@@ -42,7 +42,7 @@
   <a href="https://lemon-ngl.vercel.app">
     <img src="https://img.shields.io/badge/Lemon%20Ngl%20Instagram-FF0057">
   </a>
-  <a href="https://lemon-main/portofolio/index.html.vercel.app">
+  <a href="https://lemon-main.vercel.app/portofolio/index.html">
     <img src="https://img.shields.io/badge/Lemon%20Portofolio-FF3457">
   </a>
 </div>
