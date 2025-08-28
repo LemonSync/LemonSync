@@ -9,7 +9,7 @@
 | 🌍 Suku: Batak Toba  
 | ⛪ Agama: Kristen Protestan  
 | 💖 Pacar: Nothing (Ngapain Pacaran)  
-| 📱 No HP: HP gw hilang
+| 📱 No HP: +6282172175234
 | 📧 Email: grouplemon0@gmail.com 
 -------------------------
    ```
