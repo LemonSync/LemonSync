@@ -23,6 +23,19 @@
 </p>
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LemonSync&theme=github-compact&hide_border=true">
 </p>
 
