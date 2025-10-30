@@ -1,6 +1,6 @@
 <h3 align="center">
 
-<img src="https://lemon-card.vercel.app/api/github-card?username=LemonSync&type=2&desc=Saya%20adalah%20seseorang%20yang%20misterius%20dan%20kejam,%20yang%20akan%20segera%20memakan%20kamu%20diam%20diam,%20berwaspadalah%20akan%20kedatanganku%20....." alt="Lemon">
+<img src="https://lemon-card.vercel.app/api/github-card?username=LemonSync&type=2&desc=Seseorang%20yang%20ingin%20menjadi%20programmer%20handal%20tapi%20enggan%20ngoding......." alt="Lemon">
 <div align="left" style="margin-left: 9000px;">
 
 
