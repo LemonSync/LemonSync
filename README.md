@@ -1,7 +1,9 @@
 <h3 align="center">
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=LemonSync&data=followers,repositories,stars,commits&theme=nautilus" alt="Lemon">
+<img src="https://lemon-card.vercel.app/api/github-card?username=LemonSync&type=2&desc=Saya%20adalah%20seseorang%20yang%20misterius%20dan%20kejam,%20yang%20akan%20segera%20memakan%20kamu%20diam%20diam,%20berwaspadalah%20akan%20kedatanganku%20....." alt="Lemon">
 <div align="left" style="margin-left: 9000px;">
+
+
   
   ```csharp
 -------------------------
