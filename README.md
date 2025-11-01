@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://lemon-card.vercel.app/api/github-card?username=LemonSync&type=2&desc=Seseorang%20yang%20ingin%20menjadi%20programmer%20handal%20tapi%20enggan%20ngoding......." alt="Lemon">
+<img src="https://lemon-card.vercel.app/api/svg-card?name=lemonsync" alt="Lemon">
 <br>
 <a href="https://www.lemonsync.my.id/portofolio/index.html">
     <img src="https://img.shields.io/badge/My%20Portofolio-008000">
