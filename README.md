@@ -29,4 +29,8 @@
   <a href="https://lemon-ngl.vercel.app">
     <img src="https://img.shields.io/badge/Lemon%20Ngl%20Instagram-FF0057">
   </a>
+<br><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LemonSync&style=for-the-badge&label=Viewers+Account&color=brightgreen">
+</p>
 </div>
