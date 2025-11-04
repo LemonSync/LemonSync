@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://lemon-card.vercel.app/api/svg-card?name=lemonsync" alt="Lemon">
+<img src="https://lemon-card.vercel.app/api/svg-card?name=LemonSync&age=Old%20(Private)&study=S%20Alpukat&religion=Cristian&job=None&number=6282172175234&email=grouplemon0@gmail.com&hobby=Ngoding" alt="Lemon">
 <br>
 <a href="https://www.lemonsync.my.id/portofolio/index.html">
     <img src="https://img.shields.io/badge/My%20Portofolio-008000">
