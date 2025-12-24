@@ -2,8 +2,6 @@
 
 <img src="https://lemon-card-two.vercel.app/api/svg-card?name=lemonsync&type=2&desc=Seseorang%20yang%20pengen%20jadi%20prorammer%20handal%20tapi%20enggan%20ngoding" alt="LemonAja">
 <br>
-<img src="https://lemon-card-two.vercel.app/api/svg-card?type=1&name=LemonSync&age=Old%20(Private)&study=SMK&religion=Cristian&job=None&number=6282172175234&email=grouplemon0@gmail.com&hobby=Ngoding" alt="Lemon">
-<br>
 <a href="https://www.lemonsync.my.id/portofolio/index.html">
     <img src="https://img.shields.io/badge/My%20Portofolio-008000">
   </a>
