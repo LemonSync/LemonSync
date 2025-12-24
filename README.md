@@ -23,7 +23,7 @@
   <a href="https://lemon-email.vercel.app">
     <img src="https://img.shields.io/badge/Lemon%20Email-FFD700">
   </a>
-  <a href="https://lemon-welcome.vercel.app">
+  <a href="https://lemon-welcome-omega.vercel.app">
     <img src="https://img.shields.io/badge/Lemon%20Welcome-2916F3">
   </a>
   <a href="https://lemon-ngl.vercel.app">
