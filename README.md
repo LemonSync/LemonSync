@@ -2,13 +2,6 @@
 
 <img src="https://lemon-card-two.vercel.app/api/svg-card?name=lemonsync&type=2&desc=Seseorang%20yang%20pengen%20jadi%20prorammer%20handal%20tapi%20enggan%20ngoding" alt="LemonAja">
 <br>
-<a href="https://lemon-main-tau.vercel.app/portofolio/index.html">
-    <img src="https://img.shields.io/badge/My%20Portofolio-008000">
-  </a>
-
-</div>
-
-### My Project:
 
 <div align="center">
   <a href="https://lemon-card-two.vercel.app/api/github-card">
