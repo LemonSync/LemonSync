@@ -24,7 +24,6 @@
       </td>
     </tr>
   </table>
-  <br>
   <table>
     <tr>
       <td>
