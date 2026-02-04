@@ -7,6 +7,29 @@
       <td>
         <details>
           <summary>
+            🍋
+            <em>
+              About Me
+            </em>
+          </summary>
+          <br>
+          <div align="left">
+          <p>Nama: Eres Fran Setia Simbolon</p>
+          <p>Umur: 17 Tahun</p>
+          <p>Agama: Kristen Protestan</p>
+          <p>Suku: Batak Toba</p>
+          <p>Kontak: +6282182185234</p>
+        </div>
+        </details>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
+        <details>
+          <summary>
             📁
             <em>
               My Projects
