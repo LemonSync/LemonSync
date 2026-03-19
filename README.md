@@ -61,6 +61,9 @@
           <a href="https://github.com/lemonsync/wkwkchat">
             <img src="https://img.shields.io/badge/Wkwk%20Chat-008800?style=for-the-badge">
           </a>
+          <a href="https://github.com/lemonsync/sembilansuara">
+            <img src="https://img.shields.io/badge/SembilanSuara-1cd61c?style=for-the-badge">
+          </a>
         </div>
         </details>
       </td>
