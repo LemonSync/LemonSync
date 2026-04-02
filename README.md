@@ -128,3 +128,11 @@
     <br>
     <img src="https://img.shields.io/badge/ANTI_AI-KALO_NGODING-GREEN?style=for-the-badge">
   </p>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=LemonSync&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/LemonSync?pet-id=785787152303738576"
+    width="999"
+    height="999"
+  />
+</a>
