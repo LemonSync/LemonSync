@@ -126,5 +126,5 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=LemonSync&style=for-the-badge&label=Viewers+Account&color=brightgreen">
     <br>
-    <img src="https://img.shields.io/badge/ANTI_AI-KALO_NGODING-GREEN?style=for-the-badge">
+    <img src="https://img.shields.io/badge/MENGIKUTI_ARUS-TEKNOLOGI_TERBARU-GREEN?style=for-the-badge">
   </p>
