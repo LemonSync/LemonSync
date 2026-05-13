@@ -1,25 +1,22 @@
 <div align="center">
   
   <!-- Header Card Lemon -->
-  <img src="https://vercel.app|%20Tech%20Enthusiast" alt="LemonAja">
+  <img src="https://lemon-card-two.vercel.app/api/svg-card?name=lemonsync&type=2&desc=Seseorang%20yang%20pengen%20jadi%20prorammer%20handal%20tapi%20enggan%20ngoding" alt="LemonAja">
 
   <p align="center">
-    <img src="https://komarev.com">
-    <img src="https://shields.io">
+    <img src="https://komarev.com/ghpvc/?username=LemonSync&style=for-the-badge&label=Viewers+Account&color=brightgreen">
+    <img src="https://img.shields.io/badge/MENGIKUTI_ARUS-TEKNOLOGI_TERBARU-GREEN?style=for-the-badge">
   </p>
+</div>
 
   ---
+<br><br>
 
-  ### 🍋 Tentang Saya
-  **Eres Fran Setia Simbolon**  
-  *17 thn | Batak Toba | Kristen Protestan*
-  
-  <p align="center">
-    <a href="https://eres.my.id"><img src="https://shields.io"></a>
-    <a href="https://wa.me"><img src="https://shields.io"></a>
-  </p>
+  # Eres Fran Setia Simbolon  
+  *17 thn | Batak Toba | Kristen Protestan*<br>
+  Saya adalah pelajar yang suka ngoding, kadang iseng nyoba hal-hal random, dan lagi belajar pelan-pelan buat ngembangin skill di dunia teknologi.
 
-</div>
+  ---
 
 ### 🚀 Tech Stack & Tools
 Berikut adalah daftar lengkap teknologi yang saya gunakan:
@@ -27,9 +24,9 @@ Berikut adalah daftar lengkap teknologi yang saya gunakan:
 
 | Kategori | Ikon Teknologi |
 | :--- | :--- |
-| **Languages** | ![JS](https://shields.io) ![Java](https://shields.io) ![Go](https://shields.io) ![HTML](https://shields.io) ![CSS](https://shields.io) |
-| **Frontend** | ![Vue](https://shields.io) ![Tailwind](https://shields.io) ![Vite](https://shields.io) |
-| **Backend** | ![NodeJS](https://shields.io) ![Express](https://shields.io) ![Socket.io](https://shields.io) ![JWT](https://shields.io) |
+| **Languages** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) |
+| **Frontend** | ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge) |
+| **Backend** | ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) |
 | **Database** | ![MongoDB](https://shields.io) ![Firebase](https://shields.io) |
 | **Tools** | ![Vercel](https://shields.io) ![Git](https://shields.io) ![Postman](https://shields.io) ![VS Code](https://shields.io) |
 | **Lainnya** | ![Cloudflare](https://shields.io) ![Windows](https://shields.io) ![Word](https://shields.io) |
@@ -39,7 +36,6 @@ Berikut adalah daftar lengkap teknologi yang saya gunakan:
 ### 📁 My Lemon Projects
 *Klik badge untuk mengunjungi tautan:*
 
-<div align="center">
   <a href="https://lemon-card-two.vercel.app/api/github-card"><img src="https://img.shields.io/badge/Lemon%20Card-000000?style=for-the-badge"></a>
   <a href="https://github.com/LemonSync/Pak_Ustad"><img src="https://img.shields.io/badge/Lemon%20Ustad-008000?style=for-the-badge"></a>
   <a href="https://lemon-write-nine.vercel.app"><img src="https://img.shields.io/badge/Lemon%20Write-800080?style=for-the-badge"></a>
@@ -50,7 +46,6 @@ Berikut adalah daftar lengkap teknologi yang saya gunakan:
   <a href="https://eres.my.id"><img src="https://img.shields.io/badge/Portofolio-7B2CBF?style=for-the-badge"></a>
   <a href="https://github.com/lemonsync/wkwkchat"><img src="https://img.shields.io/badge/Wkwk%20Chat-008800?style=for-the-badge"></a>
   <a href="https://github.com/lemonsync/sembilansuara"><img src="https://img.shields.io/badge/SembilanSuara-1cd61c?style=for-the-badge"></a>
-</div>
 
 ---
 
