@@ -26,8 +26,8 @@ Berikut adalah daftar lengkap teknologi yang saya gunakan:
 | :--- | :--- |
 | **Languages** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) |
 | **Frontend** | ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge) |
-| **Backend** | ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) |
-| **Database** | ![MongoDB](https://shields.io) ![Firebase](https://shields.io) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge) ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) ![Firebase](https://shields.io) |
 | **Tools** | ![Vercel](https://shields.io) ![Git](https://shields.io) ![Postman](https://shields.io) ![VS Code](https://shields.io) |
 | **Lainnya** | ![Cloudflare](https://shields.io) ![Windows](https://shields.io) ![Word](https://shields.io) |
 
