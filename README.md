@@ -10,7 +10,7 @@
 </div>
 
   ---
-<br><br>
+<br>
 
   # Eres Fran Setia Simbolon  
   *17 thn | Batak Toba | Kristen Protestan*<br>
@@ -19,7 +19,6 @@
   ---
 
 ### 🚀 Tech Stack & Tools
-Berikut adalah daftar lengkap teknologi yang saya gunakan:
 
 
 | Kategori | Ikon Teknologi |
@@ -46,3 +45,10 @@ Berikut adalah daftar lengkap teknologi yang saya gunakan:
   <a href="https://eres.my.id"><img src="https://img.shields.io/badge/Portofolio-7B2CBF?style=for-the-badge"></a>
   <a href="https://github.com/lemonsync/wkwkchat"><img src="https://img.shields.io/badge/Wkwk%20Chat-008800?style=for-the-badge"></a>
   <a href="https://github.com/lemonsync/sembilansuara"><img src="https://img.shields.io/badge/SembilanSuara-1cd61c?style=for-the-badge"></a>
+
+---
+
+### 📞 Kontak
+
+- **Email:** [simboloneres@gmail.com](mailto:simboloneres@gmail.com) [grouplemon0@gmail.com](mailto:grouplemon0@gmail.com)
+- **WhatsApp:** [+6282172175234](https:wa.me/6282172175234)
