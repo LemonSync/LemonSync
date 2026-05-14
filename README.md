@@ -14,7 +14,8 @@
 
   # Eres Fran Setia Simbolon  
   *17 thn | Batak Toba | Kristen Protestan*<br>
-  Saya adalah pelajar yang suka ngoding, kadang iseng nyoba hal-hal random, dan lagi belajar pelan-pelan buat ngembangin skill di dunia teknologi.
+  Saya adalah **FullStack Developer**, Saya menghargai *Proses*, 
+  Saya pelajar yang suka <ins>ngoding</ins>, kadang *iseng nyoba hal-hal random*, dan lagi belajar pelan-pelan buat **ngembangin *skill* di <ins>dunia teknologi</ins>**.
 
   ---
 
