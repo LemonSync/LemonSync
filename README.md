@@ -51,5 +51,5 @@
 
 ### 📞 Kontak
 
-- **Email:** [simboloneres@gmail.com](mailto:simboloneres@gmail.com) [grouplemon0@gmail.com](mailto:grouplemon0@gmail.com)
-- **WhatsApp:** [+6282172175234](https://wa.me/6282172175234)
+- **Email: [simboloneres@gmail.com](mailto:simboloneres@gmail.com) [grouplemon0@gmail.com](mailto:grouplemon0@gmail.com)**
+- **WhatsApp: [+6282172175234](https://wa.me/6282172175234)**
