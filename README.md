@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Header Card Lemon -->
-  <img src="https://lemon-card-two.vercel.app/api/svg-card?name=lemonsync&type=2&desc=Seseorang%20yang%20pengen%20jadi%20prorammer%20handal%20tapi%20enggan%20ngoding" alt="LemonAja">
+  <img src="https://lemon-card-two.vercel.app/api/svg-card?name=lemonsync&type=2&desc=Aku%20Suges" alt="LemonAja">
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=LemonSync&style=for-the-badge&label=Viewers+Account&color=brightgreen">
